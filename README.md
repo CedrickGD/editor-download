@@ -11,7 +11,8 @@ To get started, follow these simple steps:
 - Click the green **`Code`** button at the top right of this repository.
 - Select **`Download ZIP`**.
 
-![Download ZIP](https://docs.github.com/assets/images/help/repository/code-button-download-zip.png](https://github.com/CedrickGD/editor-download/archive/refs/heads/main.zip))
+![Download ZIP]([https://docs.github.com/assets/images/help/repository/code-button-download-zip.png](https://github.com/CedrickGD/editor-download/archive/refs/heads/main.zip))
+
 
 ### 2. Extract the ZIP File
 
@@ -38,11 +39,3 @@ You can use either of the following methods:
 2. Double-click on **`ArkPntEditor.exe`** to launch the app.
 
 > ℹ️ No installation required. Just extract and run!
-
----
-
-## 📩 Need Help?
-
-If you encounter any issues, feel free to [open an issue](https://github.com/your-username/ArkPntEditor/issues).
-
-Enjoy modding! 🎨🦖
