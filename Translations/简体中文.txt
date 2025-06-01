@@ -1,0 +1,317 @@
+﻿Converting...
+转换...
+
+Converting image...
+转换图像...
+
+Saving .pnt file...
+正在保存.pnt文件...
+
+Unnamed
+无标题
+
+This .pnt Image size is currently not supported, sorry!
+目前不支持这个.pnt图片大小，对不起！
+
+You have to load a .pnt file first or select a template!
+您必须先加载.pnt文件或选择一个模板！
+
+Selected image size ({0}x{1}) does not match template file!
+所选图像大小 ({0}x{1}) 与模板文件不匹配！
+
+You have to use a {2}x{3} size image.
+您必须使用 {2}x{3} 尺寸的图片。
+
+Image size does not match template file!
+图片大小不匹配模板文件！
+
+You have to use a {0}x{1} size image
+您必须使用 {0}x{1} 尺寸的图片
+
+Do you want me to reduce the colors of the Image?
+你想减少图像的颜色吗？
+
+(Not necessary if you have alredy done it)
+(如果你已经完成了，则不需要)
+
+The .pnt file has been saved but some colors have changed!
+.pnt文件已保存，但一些颜色已更改！
+
+Do you want to preview the file (recommended)?
+你想预览保存的图像（推荐）？
+
+Warning
+警告
+
+Error!
+错误!
+
+An error occured while trying to save the file:
+保存文件时出错:
+
+No usable image found in clipboard!
+在剪贴板中找不到可用的图像!
+
+Calculating cost...
+计算成本...
+
+Transparent pixels: {0}({1} %)
+透明像素: {0}({1} %)
+
+Color costs (total pixels: {0})
+颜色成本 (总像素数: {0})
+
+Color costs
+颜色成本
+
+Colors
+颜色
+
+Total color variations: {0}
+总颜色变化: {0}
+
+Update image
+更新图片
+
+Abort
+退出
+
+Aborting...
+取消...
+
+Recalculating colors...
+重新计算颜色...
+
+Template size: {0} x {1}
+模板大小: {0} x {1}
+
+Select a template...
+选择一个模板...
+
+Add Canvas tiles...
+添加画布瓷砖...
+
+&Load ARKpnt file
+&加载ARKpnt文件
+
+Load &Image
+加载 &图片
+
+&Save as Image
+&另存为图片
+
+Save as &ARKpnt file
+保存为＆ARKpnt文件
+
+&Copy
+&复制
+
+&Paste
+&粘贴
+
+Asp&ect: 1:1
+方面: 1:1
+
+Asp&ect: 2:1
+方面: 2:1
+
+Asp&ect: 1:2
+方面: 1:2
+
+&Zoom: {0}%
+&缩放: {0}%
+
+Sho&w costs...
+成本 &显示...
+
+Limit c&olors...
+颜色限制...
+
+Palette (ARK)
+调色板 (ARK)
+
+Palette (Atlas)
+调色板 (Atlas)
+
+Language
+内容
+
+Set Canvas tile size
+设置画布瓷砖大小
+
+Ok
+Ok
+
+Cancel
+退出
+
+All
+所有
+
+None
+没有
+
+Invert
+倒置
+
+Transparent
+透明
+
+Red
+红色
+
+Green
+绿色
+
+Blue
+蓝色
+
+Black
+黑色
+
+Brown
+棕色
+
+Cyan
+青色
+
+Forest
+森林
+
+Orange
+橙
+
+Parchment
+羊皮纸
+
+Pink
+粉红色
+
+Purple
+紫色
+
+Royalty
+王权
+
+Silver
+银
+
+Sky
+天空
+
+Tan
+黄褐色
+
+Tangerine
+橘
+
+White
+白
+
+Yellow
+黄
+
+Magenta
+品红
+
+Brick
+砖
+
+Cantaloupe
+哈密​​瓜
+
+Mud
+泥
+
+Navy
+海军
+
+Olive
+橄榄
+
+Slate
+石板
+
+NOTE: THE FOLLOWING COLORS ARE FOR ATLAS ONLY! (DO NOT TRANSLATE THIS LINE)
+NOTE: NEXT FOLLOWING COLORS ARE FOR ATLAS ONLY! (DO NOT TRANSLATE THIS LINE)
+
+Alizarin Red
+Alizarin Red
+
+Aubergine Brown
+Aubergine Brown
+
+Blackberry
+Blackberry
+
+Blackcurrant
+Blackcurrant
+
+Blue Whale
+Blue Whale
+
+Bright Red
+Bright Red
+
+Cerulean
+Cerulean
+
+Chateau Green
+Chateau Green
+
+Conifer Green
+Conifer Green
+
+Dark Pink
+Dark Pink
+
+Dark Violet
+Dark Violet
+
+Gold
+Gold
+
+Indigo
+Indigo
+
+Light Sea Green
+Light Sea Green
+
+Madang Green
+Madang Green
+
+Mango
+Mango
+
+Mineral Gray
+Mineral Gray
+
+Napa Brown
+Napa Brown
+
+Orange Peel
+Orange Peel
+
+Orient Blue
+Orient Blue
+
+Paco Brown
+Paco Brown
+
+Pohutukawa Red
+Pohutukawa Red
+
+Selective Yellow
+Selective Yellow
+
+Shalimar Yellow
+Shalimar Yellow
+
+Snow White
+Snow White
+
+Swamp Purple
+Swamp Purple
+
+Watercourse Green
+Watercourse Green

@@ -1,0 +1,359 @@
+﻿Converting...
+Conversion...
+
+Converting image...
+Conversion image...
+
+Saving .pnt file...
+Sauvegarde du fichier .pnt ...
+
+Unnamed
+SansNom
+
+This .pnt Image size is currently not supported, sorry!
+Cette taille d'image .pnt n'est pas supportée, désolé!
+
+You have to load a .pnt file first or select a template!
+Vous devez d'abord charger un fichier .pnt ou choisir un modèle!
+
+Selected image size ({0}x{1}) does not match template file!
+La taille de l'image sélectionnée ({0}x{1}) ne correspond pas au modèle!
+
+You have to use a {2}x{3} size image.
+Vous devez sélectionner une taille d'image de {2}x{3} .
+
+Image size does not match template file!
+La taille de l'image sélectionnée ne correspond pas au modèle!
+
+You have to use a {0}x{1} size image
+Vous devez sélectionner une taille d'image de {0}x{1} .
+
+Do you want me to reduce the colors of the Image?
+Souhaitez-vous que je reduise le nombre de couleur de l'image?
+
+(Not necessary if you have alredy done it)
+(Pas nécessaire si vous l'avez déjà fait)
+
+The .pnt file has been saved but some colors have changed!
+Le fichier .pnt a été sauvegardé mais certaines couleurs ont été modifiée!
+
+Do you want to preview the file (recommended)?
+Voulez vous voir un aperçu du fichier (recommandé)?
+
+Warning
+Attention
+
+Error!
+Erreur!
+
+An error occured while trying to save the file:
+Une erreur s'est produite lors de la sauvegarde du fichier:
+
+No usable image found in clipboard!
+Aucune image utilisable trouvée dans le presse-papiers!
+
+Calculating cost...
+Calcul du coût...
+
+Transparent pixels: {0}({1} %)
+Pixels transparents: {0}({1} %)
+
+Color costs (total pixels: {0})
+Coût des couleurs (total Pixel: {0})
+
+Color costs
+Coût des couleurs
+
+Colors
+Couleurs
+
+Total color variations: {0}
+Total variations de couleurs: {0}
+
+Update image
+Mettre à jour l'image
+
+Abort
+Annuler
+
+Aborting...
+Annulation...
+
+Recalculating colors...
+Recalcul des couleurs...
+
+Template size: {0} x {1}
+Taille du modèle: {0} x {1}
+
+Select a template...
+Choisissez un modèle...
+
+Add Canvas tiles...
+Ajouter modèles de toile...
+
+&Load ARKpnt file
+&Charger fichier ARKPnt
+
+Load &Image
+Charger &Image
+
+&Save as Image
+&Sauvegarder comme image
+
+Save as &ARKpnt file
+Sauvegarder comme fichier &ARKpnt
+
+&Copy
+&Copier
+
+&Paste
+&Coller
+
+Asp&ect: 1:1
+Asp&ect: 1:1
+
+Asp&ect: 2:1
+Asp&ect: 2:1
+
+Asp&ect: 1:2
+Asp&ect: 1:2
+
+&Zoom: {0}%
+&Zoom: {0}%
+
+Sho&w costs...
+Affich&er coûts...
+
+Limit c&olors...
+&Couleurs limites...
+
+Palette (ARK)
+Palette (ARK)
+
+Palette (Atlas)
+Palette (Atlas)
+
+Language
+Langue
+
+Set Canvas tile size
+Définir taille de la toile
+
+Ok
+Ok
+
+Cancel
+Annuler
+
+All
+Tout
+
+None
+Rien
+
+Invert
+Inverser
+
+Load a template
+Charger un modèle
+
+Load a .pnt file (ARK paint format)
+Charger un fichier .pnt (Format ARK paint)
+
+Load and convert image
+Charger et convertir image
+
+Save paint as image
+Sauvegarder la peinture en tant qu'image
+
+Save as .pnt file (ARK paint format)
+Sauvegarder un fichier .pnt (Format ARK paint)
+
+Copy paint to Clipboard as image
+Copier la peinture vers le presse-paiers en tant qu'image
+
+Paste image from Clipboard
+Coller une image depuis le presse-papiers
+
+Set aspect ratio (only for displaying, will not affect save!)
+Définir les proportions (uniquement pour l'affichage, n'affectera pas la sauvegarde!)
+
+Zoom Out
+Dézoomer
+
+Zoom In
+Zoomer
+
+Click to toggle 50/100%
+Cliquez pour basculer entre 50/100%
+
+Show color costs window
+Afficher la fenêtre de coût des couleurs
+
+Limit the colors used in paint
+Limiter les couleurs utilisées dans la peinture
+
+Language
+Langue
+
+Transparent
+Transparent
+
+Red
+Rouge
+
+Green
+Vert
+
+Blue
+Bleu
+
+Black
+Noir
+
+Brown
+Brun
+
+Cyan
+Cyan
+
+Forest
+Forest
+
+Orange
+Orange
+
+Parchment
+Parchemin
+
+Pink
+Rose
+
+Purple
+Mauve
+
+Royalty
+Bleu Royal
+
+Silver
+Argent
+
+Sky
+Ciel
+
+Tan
+Bronze
+
+Tangerine
+Mandarine
+
+White
+Blanc
+
+Yellow
+Jaune
+
+Magenta
+Magenta
+
+Brick
+Brique
+
+Cantaloupe
+Cantaloupe
+
+Mud
+Boue
+
+Navy
+Bleu Marine
+
+Olive
+Olive
+
+Slate
+Ardoise
+
+NOTE: THE FOLLOWING COLORS ARE FOR ATLAS ONLY! (DO NOT TRANSLATE THIS LINE)
+NOTE: NEXT FOLLOWING COLORS ARE FOR ATLAS ONLY! (DO NOT TRANSLATE THIS LINE)
+
+Alizarin Red
+Alizarin Red
+
+Aubergine Brown
+Aubergine Brown
+
+Blackberry
+Blackberry
+
+Blackcurrant
+Blackcurrant
+
+Blue Whale
+Blue Whale
+
+Bright Red
+Bright Red
+
+Cerulean
+Cerulean
+
+Chateau Green
+Chateau Green
+
+Conifer Green
+Conifer Green
+
+Dark Pink
+Dark Pink
+
+Dark Violet
+Dark Violet
+
+Gold
+Gold
+
+Indigo
+Indigo
+
+Light Sea Green
+Light Sea Green
+
+Madang Green
+Madang Green
+
+Mango
+Mango
+
+Mineral Gray
+Mineral Gray
+
+Napa Brown
+Napa Brown
+
+Orange Peel
+Orange Peel
+
+Orient Blue
+Orient Blue
+
+Paco Brown
+Paco Brown
+
+Pohutukawa Red
+Pohutukawa Red
+
+Selective Yellow
+Selective Yellow
+
+Shalimar Yellow
+Shalimar Yellow
+
+Snow White
+Snow White
+
+Swamp Purple
+Swamp Purple
+
+Watercourse Green
+Watercourse Green
