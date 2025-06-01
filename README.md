@@ -11,7 +11,7 @@ To get started, follow these simple steps:
 - Click the green **`Code`** button at the top right of this repository.
 - Select **`Download ZIP`**.
 
-![Download ZIP](https://docs.github.com/assets/images/help/repository/code-button-download-zip.png)
+![Download ZIP](https://docs.github.com/assets/images/help/repository/code-button-download-zip.png](https://github.com/CedrickGD/editor-download/archive/refs/heads/main.zip))
 
 ### 2. Extract the ZIP File
 
